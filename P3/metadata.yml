@@ -1,0 +1,14 @@
+---
+:id: 58153758
+:submitters:
+- :name: Yuhao Zhuang
+  :email: yuhzhuang@ucdavis.edu
+- :name: Daron Nahabedian
+  :email: dnahabedian@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-04 07:13:28.703182000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-03 23:13:28.703182000 Z
+:status: processed
+:score: 100.0

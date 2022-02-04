@@ -1,0 +1,14 @@
+---
+:id: 55116167
+:submitters:
+- :name: Aaron Jenkins
+  :email: anjenkins@ucdavis.edu
+- :name: Yuhao Zhuang
+  :email: yuhzhuang@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-13 07:25:44.329054000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-12 23:25:44.329054000 Z
+:status: processed
+:score: 94.0
